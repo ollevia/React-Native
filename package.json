@@ -38,7 +38,7 @@
     "react-native-web": "0.17.1",
     "react-native-webpack": "^0.1.1",
     "react-navigation": "^4.4.4",
-    "expo-linking": "~3.0.0"
+    "expo-linking": "~7.0.4"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
